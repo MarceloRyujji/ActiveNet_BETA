@@ -1,0 +1,20 @@
+@import './colors.css';
+
+.card {
+  background: var(--light-blue);
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+  max-width: 300px;
+}
+.card p {
+  color: var(--white);
+}
+
+h3 {
+  color: var(--dark-gray);
+  margin-bottom: 20px;
+  font-size: 1.5em;
+}

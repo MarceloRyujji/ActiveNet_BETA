@@ -1,0 +1,15 @@
+.logoCard {
+  width: 300px;
+}
+
+.logo {
+  width: 250px;
+  height: auto;
+}
+
+.motto {
+  font-size: 1.2em;
+  color: var(--white);
+  margin-top: 10px;
+  text-align: center;
+}

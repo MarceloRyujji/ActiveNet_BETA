@@ -1,0 +1,5 @@
+@import './colors.css';
+
+.birthLable {
+  color: var(--white);
+}

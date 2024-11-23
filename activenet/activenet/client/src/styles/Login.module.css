@@ -1,0 +1,8 @@
+.forgottenAccount {
+  color: rgba(131, 74, 195, 0.858);
+  background: none;
+  border: none;
+  text-decoration: none;
+  margin: 10px 0;
+  cursor: pointer;
+}

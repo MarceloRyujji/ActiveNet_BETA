@@ -1,0 +1,23 @@
+@import './colors.css';
+
+.footer {
+  background-color: var(--dark-gray);
+  color: var(--white);
+  padding: 20px;
+  text-align: center;
+  position: relative;
+  width: 100vw;
+  left: 0;
+  bottom: 0;
+  box-sizing: border-box;
+}
+
+.footer a {
+  color: var(--white);
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
