@@ -82,5 +82,3 @@
 For feedback or support, reach out to [marcelo.augusto9999@hotmail.com].
 
 ---
-
-This README provides a summary of the ActiveNet project and how to get it up and running.
