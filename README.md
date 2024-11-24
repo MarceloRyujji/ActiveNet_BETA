@@ -27,7 +27,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/activenet.git
+   git clone https://github.com/MarceloRyujji/ActiveNet_BETA.git
    ```
 
 2. Navigate to the project directory:
